@@ -1,0 +1,18 @@
+.headerWrapper {
+	max-width: 1550px;
+}
+
+header {
+	background-image: url('images/stockHeader.jpg');
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	background-position: top center;
+	//margin-top: 80px;
+	//top: 80px;
+}
+
+h1 {
+	margin: 0;
+	padding-top: 80px;
+}
